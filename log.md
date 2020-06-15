@@ -11,12 +11,6 @@
 
 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
-
-
 ######################
 ## Dia 0: 14/6/2020 ##
 ######################
@@ -25,4 +19,9 @@
 **Pensamientos**: Me pone manija empezar esto, creo que va a ser una buena manera de obligarme sentarme y codear en proyectos que tengo tirados y aprender en el proceso.
 
 
+######################
+## Día 1: 15/6/2020 ##
+######################
 
+**Progreso del día**: Retome el proyecto de Pokedex que tenía tirado y despues de pelearme un rato con CSS (mi archienemigo) pude ingresar una imagen, un titulo y hacerlos responsive.
+**Pensamientos**: Hacía bastante que no me sentaba a romperme la cabeza con CSS, abriendo 10 pestañas distintas. Aparte de esto estuve leyendo que es el mobile first. Primer ida y ya estoy avanzando muchísimo.
