@@ -25,3 +25,11 @@
 
 **Progreso del día**: Retome el proyecto de Pokedex que tenía tirado y despues de pelearme un rato con CSS (mi archienemigo) pude ingresar una imagen, un titulo y hacerlos responsive.
 **Pensamientos**: Hacía bastante que no me sentaba a romperme la cabeza con CSS, abriendo 10 pestañas distintas. Aparte de esto estuve leyendo que es el mobile first. Primer ida y ya estoy avanzando muchísimo.
+
+######################
+## Día 2: 16/6/2020 ##
+######################
+
+**Progreso del día**: Pude poner la imagen de fondo, el Mimikyu y la barra de navegación (muy básica, mañana se retoca), todo responsive.
+
+**Pensamientos**: CSS obliga a la búsqueda constante en internet. Uno puede llegar a pensar que es simple a primera vista, pero la cantidad de opciones que tiene para absolutamente todo es bestial.
