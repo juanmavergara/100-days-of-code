@@ -39,6 +39,7 @@
 ######################
 
 **Progreso del día**: Hice un par de botones y una validación de un ingreso y pase de odiar al mundo mientras no me salia nada, a estar contentísimo escribiendo acá.
+
 **Pensamientos**:  Esto viene siendo una montaña rusa de emociones.
 
 ######################
@@ -46,7 +47,7 @@
 ######################
 
 **Progreso del día**: Termine las validaciones del input, mañana arranco con los fetch o le pongo mas estilos a la pagina, lo vere en el momento.
-</br>
+
 **Pensamientos**: Cualquier proyecto, por minimo que parezca, necesita de una buena cantidad de horas con el culo en la silla.
 
 
