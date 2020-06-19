@@ -33,3 +33,19 @@
 **Progreso del día**: Pude poner la imagen de fondo, el Mimikyu y la barra de navegación (muy básica, mañana se retoca), todo responsive.
 
 **Pensamientos**: CSS obliga a la búsqueda constante en internet. Uno puede llegar a pensar que es simple a primera vista, pero la cantidad de opciones que tiene para absolutamente todo es bestial.
+
+######################
+## Día 3: 17/6/2020 ##
+######################
+
+**Progreso del día**: Hice un par de botones y una validación de un ingreso y pase de odiar al mundo mientras no me salia nada, a estar contentísimo escribiendo acá.
+**Pensamientos**:  Esto viene siendo una montaña rusa de emociones Face with tears of joy.
+
+######################
+## Día 4: 18/6/2020 ##
+######################
+
+**Progreso del día**: Termine las validaciones del input, mañana arranco con los fetch o le pongo mas estilos a la pagina, lo vere en el momento.
+**Pensamientos**: Cualquier proyecto, por minimo que parezca, necesita de una buena cantidad de horas con el culo en la silla.
+
+
