@@ -50,4 +50,13 @@
 
 **Pensamientos**: Cualquier proyecto, por minimo que parezca, necesita de una buena cantidad de horas con el culo en la silla.
 
+######################
+## Día 5: 19/6/2020 ##
+######################
+
+**Progreso del día**: Son las 4am, dia largo y mas aun porque acabo de terminar una llamada a la api que no podia hacer andar. Quien diria que el metodo .json() devuelve una promise. 2 horas para resolver todo poniendo un return.
+
+**Pensamientos**: Me quiero pegar un corchazo
+
+
 
