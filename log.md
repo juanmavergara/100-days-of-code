@@ -58,5 +58,13 @@
 
 **Pensamientos**: Me quiero pegar un corchazo
 
+######################
+## Día 6: 20/6/2020 ##
+######################
+
+**Progreso del día**: Hoy no pude seguir con el proyecto del pokedex, pero estuve programando para un TP de la facu, usando Jquery para armar un cajero de banco bastante básico. Al login ya hecho le agregue el home y los botones basicos.
+
+**Pensamientos**: Todo es mas facil con react (si te sale el fetch)
+
 
 
