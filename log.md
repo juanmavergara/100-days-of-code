@@ -66,5 +66,15 @@
 
 **Pensamientos**: Todo es mas facil con react (si te sale el fetch)
 
+##############################
+## Días 7, 8 y 9: 23/6/2020 ##
+##############################
+
+PERDON AL QUE VEA ESTO
+
+**Progreso del día**: este TP me esta matando. Me volvi loco para hacer los PUT con la configuracion del netbeans, y resulta que estaba haciendo todo mal. Ahora estoy teniendo problemas con los tipos de datos CURRENT_TIMESTAMP y me estoy volviendo mas loco todavia. Por suerte solo me falta eso y jugar un poco con una tabla mas para terminar la parte logica. Despues tengo que ponerle CSS para que quede lindo.
+
+**Pensamientos**: a Java lo miras mal y no funciona. Es lo mas parecido a una impresora.
+
 
 
