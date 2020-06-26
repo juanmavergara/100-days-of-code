@@ -76,5 +76,12 @@ PERDON AL QUE VEA ESTO
 
 **Pensamientos**: a Java lo miras mal y no funciona. Es lo mas parecido a una impresora.
 
+######################
+## Día 10: 25/6/2020 ##
+######################
+
+**Progreso del día**: Hoy no hice mucho, termine las llamadas a las api de pokemon y le agregue un efecto de sombreado a las cartas, ahora toca llenarlo de css.
+
+**Pensamientos++: Estoy tan hasta las manos de todo que me olvide totalmente de que ayer no postee nada aca (igualmente tuve que codear para el tp de Dds)
 
 
