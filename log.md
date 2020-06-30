@@ -82,7 +82,7 @@ PERDON AL QUE VEA ESTO
 
 **Progreso del día**: Hoy no hice mucho, termine las llamadas a las api de pokemon y le agregue un efecto de sombreado a las cartas, ahora toca llenarlo de css.
 
-**Pensamientos++: Estoy tan hasta las manos de todo que me olvide totalmente de que ayer no postee nada aca (igualmente tuve que codear para el tp de Dds)
+**Pensamientos**: Estoy tan hasta las manos de todo que me olvide totalmente de que ayer no postee nada aca (igualmente tuve que codear para el tp de Dds)
 
 ######################
 ## Día 11: 26/6/2020 ##
@@ -90,5 +90,12 @@ PERDON AL QUE VEA ESTO
 
 **Progreso del día**: Hoy toco leer algo de transformaciones en CSS y hacer alguna pruebas para practicar.
 
-**Pensamientos++: Si no fuera por el challenge no estaria codeando ni un 10% de esto. No por falta de ganas sino porque mi atencion esta completamente en la universidad o el momento que esta pasando este bendito país.
+**Pensamientos**: Si no fuera por el challenge no estaria codeando ni un 10% de esto. No por falta de ganas sino porque mi atencion esta completamente en la universidad o el momento que esta pasando este bendito país.
+
+######################
+## Día 12: 29/6/2020 ##
+######################
+
+**Progreso del día**: Hoy me dedique al pokedex. De a poco va tomando forma, voy a agregar algunas clases mas porque me esta quedando un código totalmente ilegible.
+**Pensamientos**: Tengo que tratar de pensar bien las estructuras para no tener que reescribir codigo (me lo dijeron mil veces en la facu pero del dicho al hecho hay alto trecho)
 
