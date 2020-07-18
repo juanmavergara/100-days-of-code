@@ -99,3 +99,10 @@ PERDON AL QUE VEA ESTO
 **Progreso del día**: Hoy me dedique al pokedex. De a poco va tomando forma, voy a agregar algunas clases mas porque me esta quedando un código totalmente ilegible.
 **Pensamientos**: Tengo que tratar de pensar bien las estructuras para no tener que reescribir codigo (me lo dijeron mil veces en la facu pero del dicho al hecho hay alto trecho)
 
+######################
+## Día 13: 18/7/2020 ##
+######################
+
+**Progreso del día**: I'm back. Despues de un show de parciales volvi a sentarme a programar esto. Hoy me puse con el diseño de las pills que muestran los tipos de los Pokemon
+**Pensamientos**: Me pone contento volver a codear este proyecto.
+
