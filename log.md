@@ -100,9 +100,19 @@ PERDON AL QUE VEA ESTO
 **Pensamientos**: Tengo que tratar de pensar bien las estructuras para no tener que reescribir codigo (me lo dijeron mil veces en la facu pero del dicho al hecho hay alto trecho)
 
 ######################
-## Día 13: 18/7/2020 ##
+## Día 13: 17/7/2020 ##
 ######################
 
 **Progreso del día**: I'm back. Despues de un show de parciales volvi a sentarme a programar esto. Hoy me puse con el diseño de las pills que muestran los tipos de los Pokemon
 **Pensamientos**: Me pone contento volver a codear este proyecto.
+
+######################
+## Día 14: 18/7/2020 ##
+######################
+
+**Progreso del día**: Casi termino las pills. Me falta solo la altura del componente, que al parecer CSS no me estaria dejando editar.
+**Pensamientos**: Me choque de nuevo con CSS. Cuando termine este proyecto voy a darle una repasada total.
+
+
+
 
